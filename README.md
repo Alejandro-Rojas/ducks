@@ -1,8 +1,6 @@
-# ducks
-MiniDuckSim is the hottest new game around. You can create duck colonies of all types. 
+# duck
 
+This repo is intended to be a sandbox to modify and extend the duck simulator example from Head First Design Patterns. 
 
-
-How to contribute to this project:
-
+See https://github.com/bethrobson/Head-First-Design-Patterns for more details on the book. 
 
