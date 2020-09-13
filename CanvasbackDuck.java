@@ -1,10 +1,10 @@
 class CanvasbackDuck extends Duck {
 
-  public void display() {
-    System.out.println("Canvasback duck displayed");
+  public CanvasbackDuck() {
+    quackBehavior = new Quack();
   }
 
-  public void quack() {
-    System.out.println("Canvasback duck quacked");
+  public void display() {
+    System.out.println("Canvasback duck displayed");
   }
 }
