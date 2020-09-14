@@ -1,10 +1,10 @@
 class DecoyDuck extends Duck {
 
-  public void display() {
-    System.out.println("Decoy duck displayed");
+  public DecoyDuck() {
+    quackBehavior = new Quack();
   }
 
-  public void quack() {
-    System.out.println("Decoy duck makes no sounds");
+  public void display() {
+    System.out.println("Decoy duck displayed");
   }
 }
